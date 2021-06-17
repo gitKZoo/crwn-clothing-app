@@ -22,7 +22,7 @@ class  Directory extends Component {
         imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
         id: 3,
         linkUrl: 'shop/sneakers'
-      },
+      }, 
       {
         title: 'womens',
         imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
