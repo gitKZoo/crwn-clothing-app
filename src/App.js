@@ -30,6 +30,7 @@ class App extends Component {
             }
           });
         })
+        // TODO loading spinner
       } else {
         this.setState({ currentUser: userAuth })
       }
